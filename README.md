@@ -1,4 +1,4 @@
-# MUFIX Development Team Topics Resaerches
+# MUFIX Development Team Topics Researches
 I was given a task that includes searching about different topics
 <br/>
 1- What is Relational Database Normalization.
